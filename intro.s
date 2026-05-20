@@ -67,7 +67,7 @@ VAR1        = $c5
 
 TETRAPOINT  = $d0           ; 16 values for sprite tetrapos tables
 
-    incdir ../graphics      ; load graphic assets from here
+    incdir graphics         ; load graphic assets from here
     cpu 6510                ; identifier for assembler to target c64
 
 ;	org $0326               ; autorun address
