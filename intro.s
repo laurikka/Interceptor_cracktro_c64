@@ -1,5 +1,5 @@
 ;bugs left:
-; - star field top garbage
+; - star field garbage
 
 DEBUG       = 0
 MUSIC       = 1
