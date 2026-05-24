@@ -1,5 +1,7 @@
 ;bugs left:
 ; - star field garbage
+; - better centering of elements
+; - 1/2 frame scroller flip flop
 
 DEBUG       = 0
 MUSIC       = 1
